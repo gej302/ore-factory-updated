@@ -1,0 +1,20 @@
+{
+    "type": "GenericCrafter",
+    "name": "Ore-factory -3",
+    "description": "Titanium makes lead.",
+    "size": 1,
+    "outputItem": {"item": "lead", "amount": 2},
+    "craftTime": 0.1,
+    "consumes": {
+        "items": {
+            "items": [
+                { "item": "titanium", "amount": 1 }
+            ],
+        }
+    },
+    "requirements":[
+        { "item": "titanium", "amount": 50 }
+    ],
+    "category": "crafting",
+    "research": "Ore-factory -II"
+}

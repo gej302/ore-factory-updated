@@ -1,0 +1,20 @@
+{
+    "type": "GenericCrafter",
+    "name": "Ore-factory 0",
+    "description": "Sand makes copper.",
+    "size": 1,
+    "outputItem": {"item": "copper", "amount": 1},
+    "craftTime": 0.1,
+    "consumes": {
+        "items": {
+            "items":[
+                { "item": "sand", "amount": 2 }
+            ],
+        }
+    },
+    "requirements":[
+        { "item": "copper", "amount": 50 }
+    ],
+    "category": "crafting",
+    "research": "mechanical-drill"
+}

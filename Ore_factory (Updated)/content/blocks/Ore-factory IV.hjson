@@ -1,0 +1,20 @@
+{
+    "type": "GenericCrafter",
+    "name": "Ore-factory 4",
+    "description": "Titanium make thorium.",
+    "size": 1,
+    "outputItem": {"item": "thorium", "amount": 1},
+    "craftTime": 0.1,
+    "consumes": {
+        "items": {
+            "items": [
+                { "item": "titanium", "amount": 2 }
+            ],
+        }
+    },
+    "requirements":[
+        { "item": "titanium", "amount": 50 }
+    ],
+    "category": "crafting",
+    "research": "Ore-factory III"
+}
