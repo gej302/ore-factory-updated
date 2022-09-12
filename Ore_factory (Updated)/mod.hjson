@@ -1,7 +1,7 @@
 {
   "name": "Ore-Factory (Updated)"
   "author": "Wrong, Girard"
-  "description": "Makes ores  from other ores.  Updated for 6.0, based on Wrong's Ore-Factory which is not available for 6.0: https://steamcommunity.com/sharedfiles/filedetails/?id=1921977351"
+  "description": "Makes ores  from other ores.  Updated for 6.0 (7.0 is a different mod), based on Wrong's Ore-Factory which is not available for 6.0: https://steamcommunity.com/sharedfiles/filedetails/?id=1921977351"
   "version": "1.0.2"
   "minGameVersion": "120"
 }
